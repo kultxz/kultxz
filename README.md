@@ -4,7 +4,6 @@
   Principal:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Big+Shoulders&pause=1000&color=F7F7F7&background=000000&width=435&lines=kultz.sys)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Big+Shoulders&pause=1000&color=F7F7F7&background=000000&width=435&lines=GameHacking)](https://git.io/typing-svg)
 - Programador Experiente
 - </> Code Building
 - C++ / Assembly
